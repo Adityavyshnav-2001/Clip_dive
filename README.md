@@ -1,4 +1,5 @@
-<img width="1426" alt="Screenshot 2024-08-04 at 5 05 08 PM" src="https://github.com/user-attachments/assets/0b09b40d-44d4-4123-b79c-0b1c14fc4a30">
+![MYLOGO](https://github.com/user-attachments/assets/4b4f30ae-f8ad-4c07-b54a-0b4215195295)
+
 # ClipDive - Multimedia Streaming Platform
 Overview:
 
