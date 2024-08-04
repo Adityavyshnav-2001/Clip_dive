@@ -1,6 +1,22 @@
-# ViewTube 🖥️
+<img width="1426" alt="Screenshot 2024-08-04 at 5 05 08 PM" src="https://github.com/user-attachments/assets/0b09b40d-44d4-4123-b79c-0b1c14fc4a30">
+# ClipDive - Multimedia Streaming Platform
+Overview:
 
-Welcome to ViewTube - Your Ultimate Destination for Video Streaming!
+ClipDive is a robust multimedia streaming platform built with React, Redux Toolkit, and integrated with a dynamic API. The application offers a seamless user experience with features like advanced search with debouncing and suggestions, engaging live chat, nested comments, and a rich video watch page. The platform is deployed on Vercel for optimal performance and accessibility.
+
+# Home Page
+<img width="1426" alt="Screenshot 2024-08-04 at 5 05 08 PM" src="https://github.com/user-attachments/assets/0862d036-9381-4f63-9273-66c9ad96fb90">
+
+# Search bar
+<img width="1426" alt="Screenshot 2024-08-04 at 5 05 25 PM" src="https://github.com/user-attachments/assets/1223797c-37be-479a-99b5-83b390daa0ee">
+
+
+# Video and Live Chat
+<img width="1426" alt="Screenshot 2024-08-04 at 5 34 54 PM" src="https://github.com/user-attachments/assets/46dfc3a6-d9e0-4b26-8c61-a2e04baf1b27">
+
+# Comments
+<img width="1423" alt="Screenshot 2024-08-04 at 5 06 50 PM" src="https://github.com/user-attachments/assets/aaa35e5b-dc34-43bb-aa94-6242480e0b67">
+
 
 ## Key Features 🔑
 
